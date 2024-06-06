@@ -1,0 +1,17 @@
+"" 
+
+Tue May 21 2024 14:04:56:714 GMT+0530 (India Standard Time) -- [WARNING] Discovered proxy settings in your environment. Use the --pac-file argument to specify the absolute path to your PAC file. For more proxy options, refer to the Local Testing documentation  (https://www.browserstack.com/local-testing/binary-params).
+
+Tue May 21 2024 14:04:56:715 GMT+0530 (India Standard Time) -- You can disable this warning by using the --disable-proxy-discovery argument while using the Local binary.
+
+Tue May 21 2024 14:04:56:715 GMT+0530 (India Standard Time) -- Binary semantic version is v8.9.2
+Tue May 21 2024 14:04:56:715 GMT+0530 (India Standard Time) -- Setting output as extra verbose with request parsing
+Tue May 21 2024 14:04:58:191 GMT+0530 (India Standard Time) -- Connecting to BrowserStack using WebSocket protocol...
+Tue May 21 2024 14:04:58:191 GMT+0530 (India Standard Time) -- Platform supports WebSocket connections.
+
+Tue May 21 2024 14:04:58:203 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Tue May 21 2024 14:04:58:298 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Tue May 21 2024 14:04:59:383 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454

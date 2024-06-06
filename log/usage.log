@@ -1,0 +1,35 @@
+2024-05-16 11:12:18 - [32minfo[39m: Creating configuration file...
+2024-05-16 11:12:18 - [32minfo[39m: Adding new script(s) in package.json...
+2024-05-16 11:12:18 - [32minfo[39m: Setup completed
+2024-05-16 11:13:45 - [32minfo[39m: Reading configs from C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\browserstack.yml
+2024-05-16 11:13:46 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-05-16 11:13:50 - [32minfo[39m: Local binary started successfully
+2024-05-16 11:13:52 - [31merror[39m: TypeError: _0x550e31 is not a function
+    at Object.EIYsY (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:2674)
+    at getUserPlaywrightConfig (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:3130)
+    at Object.pMGlM (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:13751)
+    at run (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:17640)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async captureError (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1182)
+2024-05-16 11:13:55 - [32minfo[39m: Local binary stopped
+2024-05-16 11:18:29 - [32minfo[39m: Reading configs from C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\browserstack.yml
+2024-05-16 11:18:30 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-05-16 11:18:34 - [32minfo[39m: Local binary started successfully
+2024-05-16 11:18:35 - [31merror[39m: TypeError: _0x550e31 is not a function
+    at Object.EIYsY (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:2674)
+    at getUserPlaywrightConfig (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:3130)
+    at Object.pMGlM (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:13751)
+    at run (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:17640)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async captureError (C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1182)
+2024-05-16 11:18:38 - [32minfo[39m: Local binary stopped
+2024-05-21 14:04:54 - [32minfo[39m: Reading configs from C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\browserstack.yml
+2024-05-21 14:04:54 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-05-21 14:04:58 - [32minfo[39m: Local binary started successfully
+2024-05-21 14:05:01 - [32minfo[39m: Couldn't find any config file. Generating new config file
+2024-05-21 14:05:04 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-05-21 14:05:58 - [32minfo[39m: Visit https://observability.browserstack.com/builds/9zylmedwcqjkwgxxe8qcakotn3kzupqvxvrwggxz to view build report, insights, and many more debugging information all at one place!
+
+2024-05-21 14:05:58 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/295af479c39908d2fd74ca112572f9073dec418d
+2024-05-21 14:06:01 - [32minfo[39m: Deleting C:\Users\sudeep.shukla\Documents\Broswerstack_playwright\playwright-browserstack-sdk.config.js
+2024-05-21 14:06:07 - [32minfo[39m: Local binary stopped
